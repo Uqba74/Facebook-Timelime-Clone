@@ -1,0 +1,253 @@
+* {
+  font-family: inherit;
+  font-weight: bold;
+  color: #2e2f2f;
+}
+body {
+  background-color: #f0f2f5;
+}
+.navbar {
+  height: 55px;
+}
+.header,
+.navbar {
+  background-color: #fff !important;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2rem;
+  text-align: center;
+  pointer-events: none;
+  /* color: #aaa; */
+}
+.midHeader {
+  padding: 0px 135px !important;
+}
+.midHeader svg {
+  display: flex;
+  justify-content: space-between;
+}
+.sideHeader {
+  padding-right: 0px !important;
+}
+.sideHeader a svg {
+  border: 1px solid gray;
+  border-radius: 50%;
+  background-color: #d8dadf;
+}
+
+.sideHeaderT {
+  padding-top: 0px !important;
+}
+
+.leftDetails a {
+  margin: 16px 7px;
+  text-decoration: none;
+}
+.overlay {
+  margin-left: 8px !important;
+  color: #232020;
+}
+.rightSideBar {
+  margin-top: 16px;
+  margin-left: 20px;
+}
+.fFriends a {
+  font-weight: normal;
+  text-decoration: none;
+}
+.fFriends {
+  margin-left: 150px;
+}
+.fFriendsHead,
+.topCardHeadings {
+  font-size: 17px;
+  color: #65676b;
+}
+.topCardHeadings {
+  font-size: 15px;
+}
+.fFriendsImg {
+  width: 55px;
+  height: 55px;
+}
+.mFriendsImg {
+  width: 17px;
+  height: 17px;
+  margin-top: 2px;
+}
+.fFriendsTxt {
+  margin-top: 1px;
+}
+.mFriendsImg,
+.fFriendsTxt,
+.profBtn {
+  margin-left: 7px;
+}
+.pDuration,
+.mutualFrn {
+  color: #a2a4a7;
+  font-weight: normal;
+  font-size: 14px;
+}
+.pDuration {
+  margin-left: 150px;
+}
+.cnfrmDeleteBtn button {
+  width: 125px;
+  padding-bottom: 12px;
+  height: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.deltBtn {
+  background-color: #d8dadf;
+  margin-left: 4px;
+}
+.contactIconImg {
+  width: 18px;
+  height: 18px;
+  margin-left: 17px;
+}
+.contactsIcon {
+  margin-left: 155px;
+}
+.contactsIcon a {
+  text-decoration: none;
+}
+.contacts {
+  margin-top: 10px;
+}
+.contProfileImg {
+  width: 37px;
+  height: 37px;
+}
+/* .mid-details {
+  border: 1px solid #000;
+} */
+.topCard,
+.topCard1,
+.topCard2 {
+  margin: 18px auto;
+  width: 85%;
+  border: none;
+  border-radius: 12px;
+}
+.topCardHeadImg {
+  width: 25px;
+  height: 23px;
+}
+.topCardNav {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0px;
+}
+.topCardNav a {
+  text-decoration: none;
+  margin: 0px 27px;
+}
+.card-header {
+  background-color: #fff;
+}
+.storyCardHead h6 {
+  font-size: 13px;
+  font-weight: bold;
+}
+.storyCardHead {
+  margin: 0px auto !important;
+}
+.storyCard {
+  text-decoration: none;
+}
+.storyCardDiv {
+  border-radius: 15px;
+}
+.storyCardImg {
+  margin: 0px auto;
+}
+.othersStoryCardImg {
+  margin: 12px 0px 0px 14px;
+  border: 3px solid blue;
+}
+.othersStoryCard {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.othersStory1 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8nSGZfbAHJpbBkZhvqH54l3j21mL-6GCVw&usqp=CAU");
+}
+
+.othersStory2 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjDmu-SF7G-HzatQ2bO2SP166i_0TZ_u32g&usqp=CAU");
+}
+.othersStory3 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb87faMu7EjT1hbnWzff95h0y9pY0-f7uXJw&usqp=CAU");
+}
+.othersStory4 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIowiTvupIDXVcDEnmpeWkig90a4kXRgwW8g&usqp=CAU");
+}
+.othersStory5 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiQM73WRit2eNY6krsLOJ9Oaj_wSTfz4hPA&usqp=CAU");
+}
+.othersStory6 {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgxI2ztcQti_U5JDV8ZzS7tu7QfnBOwBkQA&usqp=CAU");
+}
+.othersStory7 {
+  background-image: url("https://play-lh.googleusercontent.com/K51CqzDQ79vyY25qxZzYmhzhNsK1Rov4CpeemNeOz1f9BdDSTwvWTAloL6ikYFogmQ");
+}
+.suggestionBox {
+  margin-top: 0px;
+}
+.likesShare {
+  color: #999b9d;
+  font-weight: normal;
+  font-size: 15px;
+}
+.likeCmntShareBtn {
+  color: #7a7d7f;
+  font-weight: 500;
+}
+.footer {
+  width: 80%;
+}
+.inlist {
+  display: inline;
+  margin-right: 1px;
+}
+.inlist a,
+.listLink {
+  text-decoration: none;
+  font-size: 13px;
+  color: #a2a4a8;
+  font-weight: 500;
+}
+.storyCardDiv:hover {
+  background-color: #eaeaea;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transform: scale(1.05);
+}
+.leftDetailsHover:hover {
+  background-color: #ccc;
+  box-shadow: 0 2px 4px rgba(190, 184, 184, 0.785);
+  width: 300px;
+  border-radius: 7px;
+}
+.contactsHover:hover {
+  background-color: #ccc;
+  box-shadow: 0 2px 4px rgba(190, 184, 184, 0.785);
+  width: 100%;
+  border-radius: 7px;
+}
